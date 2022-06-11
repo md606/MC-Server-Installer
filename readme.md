@@ -1,3 +1,4 @@
+**English** | [中文](readme_cn.md)
 # Minecraft Server Installer
 ## Last Release: Beta 0.1
 
