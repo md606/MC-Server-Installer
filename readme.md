@@ -10,4 +10,6 @@ wget https://mapleduck.github.io/mcsi/mcsi_0.1.sh && chmod +x mcsi_0.1.sh && sud
 `
 ### (It runs the last release.)
 
+**If you have run the server before, start it again with`./mcsi_0.1.sh`**
+
 -- By MapleDuck && MapleSkys
