@@ -6,7 +6,7 @@
 ### In every release/pre-release, you can fine the commands to run server
 ### For example:
 `
-wget https://mapleduck.github.io/mcsi/mcsi_0.1.sh && chmod +x mcsi_0.1.sh && ./mcsi_0.1.sh
+wget https://mapleduck.github.io/mcsi/mcsi_0.1.sh && chmod +x mcsi_0.1.sh && sudo ./mcsi_0.1.sh
 `
 ### (It runs the last release.)
 
