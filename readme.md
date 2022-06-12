@@ -1,5 +1,6 @@
 **English** | [中文](readme_cn.md)
 # Minecraft Server Installer
+# This Installer just can run on Raspios or Ubuntu
 ## Last Release: Beta 0.1
 
 ### In every release/pre-release, you can fine the commands to run server
