@@ -9,6 +9,6 @@ wget https://mapleduck.github.io/mcsi/mcsi_0.1.sh && chmod +x mcsi_0.1.sh && sud
 `
 ### 这个命令将运行最新的脚本
 
-**如果你曾经运行过此脚本，并一切正常，再次开启服务器请用`./mcsi_0.1.sh`**
+**如果你曾经运行过此脚本，并一切正常，再次开启服务器请用`sudo ./mcsi_0.1.sh`**
 
 -- By MapleDuck && MapleSkys
