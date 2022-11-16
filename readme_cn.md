@@ -1,7 +1,7 @@
 [English](readme.md) | **中文**
 ## Minecraft服务器一键安装脚本
-## 可在Linux系统上运行，windows版暂时停止更新
-## 最新的版本：1.0.0-rc
+### 可在Linux系统上运行，windows版暂时停止更新
+### 最新的版本：1.1.0
 ### 在每个发布/预发布版本里，你都能找到运行该版本的命令
 这是MapleSky网课期间闲得发慌写的脚本，相较于0.1版本，添加（修改）了以下功能：
 
@@ -9,16 +9,6 @@
 
 2：server.jar的下载地址从原先的Mojang源，更换成了bmclapi2.bangbang93.com，特别鸣谢bangbang93的镜像源！
 
-3：自动识别应下载aarch64的JDK还是x64的JDK，更新JDK版本为19
+3：支持fabric端一键开服
 
-4：新增对x64架构cpu的支持，对不支持的架构直接退出
-
-5：增加、修改了一些注释
-
-6：执行开服命令后提示"Done!"
-
-7：自动识别包管理器，并对不支持的包管理器直接退出
-
-8：自动识别当前用户，并默认在用户目录下开服
-
--- By MapleDuck && MapleSkys
+-- By MapleSky
