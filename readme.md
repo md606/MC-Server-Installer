@@ -1,4 +1,4 @@
-[English](readme.md) | **中文**
+[English](readme_en.md) | **中文**
 ## Minecraft服务器一键安装脚本
 ### 可在Linux系统上运行，windows版暂时停止更新
 ### 最新的版本：1.1.0
