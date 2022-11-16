@@ -4,4 +4,4 @@
 
 ### In every release/pre-release, you can fine the commands to run server
 
--- By MapleDuck && MapleSkys
+-- By MapleSky
